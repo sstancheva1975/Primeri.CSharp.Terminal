@@ -25,6 +25,7 @@ namespace H01
             string third;
             third = (string)obj;
             Console.WriteLine(third);
+            
 
             
           }
