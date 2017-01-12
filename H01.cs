@@ -17,6 +17,7 @@ namespace ArraysH01
                 {
                     array[i] = 5 * array[i];
                     Console.WriteLine(array[i]);
+                
                 }
         }
     }
