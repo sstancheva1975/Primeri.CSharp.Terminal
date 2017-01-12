@@ -21,6 +21,7 @@ namespace H02
            
             Console.Write("Броят на символите в новополучения стринг при конкатенацията на числото и думата е: ");
             Console.WriteLine(number.ToString().Length + word.Length);
+            
         }
     }
 }
